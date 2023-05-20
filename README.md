@@ -1,4 +1,7 @@
 # OzoneGeophysics
+
+[![DOI](https://zenodo.org/badge/401209766.svg)](https://zenodo.org/badge/latestdoi/401209766)
+
 This repo contains a few scripts for data pre-processing and statistical analysis of the variability of ozone, measured 
 at the Geophysics Institute station.
 
